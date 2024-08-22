@@ -19,7 +19,7 @@ export default function MultiLayerParallax() {
         style={{ y: textY }}
         className="font-bold text-white text-7xl md:text-9xl relative z-10"
       >
-        PARALLAX
+        PARALLAX ???
       </motion.h1>
 
       <motion.div
